@@ -20,10 +20,10 @@ __Banner__(){
     echo -e "${YELLOW}#                         Created by kuro & knz                                #"
     echo -e "${YELLOW}#                             Dynamic Recon                                    #"
     echo -e "${YELLOW}#                                  V0.1                                        #"
-    echo -e "${YELLOW}#                            Usage: ./script.sh                                #"
+    echo -e "${YELLOW}#                           Usage: ./script.sh                                 #"
     echo -e "${YELLOW}################################################################################"
     echo
-    echo -e "${GREEN}#You're able to load list using ./script list here (absolute or relative path"
+    echo -e "${GREEN}#You're able to load list using ./script list here (absolute or relative path) :D"
 }
 
 __PrintUsage__(){
